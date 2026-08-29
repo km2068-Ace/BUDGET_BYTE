@@ -6,7 +6,12 @@ export type CampusZone =
   | 'L Block Food Mall'
   | 'One Food'
   | 'GN Naidu Canteen'
-  | 'Domino\'s';
+  | 'Domino\'s'
+  | 'Central Canteen'
+  | 'Hostel Mess Area'
+  | 'Night Stalls'
+  | 'Academic Complex'
+  | 'Food Court';
 
 export type EventType =
   | 'normal'

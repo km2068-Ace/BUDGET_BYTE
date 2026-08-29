@@ -30,7 +30,7 @@ export const RescueDropModal: React.FC = () => {
       dishId: 'dish-custom-drop',
       dishName: `${liveSurplusItem.name} Drop`,
       vendorName: 'Canteen Counter B (North Treats)',
-      zone: 'Central Canteen',
+      zone: 'FC Restaurant',
       originalPrice,
       rescuePrice,
       mealsLeft: remainingMeals,
