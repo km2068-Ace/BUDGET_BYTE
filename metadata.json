@@ -1,0 +1,6 @@
+{
+  "name": "Budget-Bite",
+  "description": "An AI-powered campus food companion and vendor price management portal that plans meals around your budget, wait times, and nutrition goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
